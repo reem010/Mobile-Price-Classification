@@ -12,6 +12,6 @@ The main objective of this project is to optimize feature selection using PSO an
 3. **PSO Feature Selection:** Optimize feature selection using Particle Swarm Optimization.
 4. **LDA Transformation:** Apply Linear Discriminant Analysis for dimensionality reduction.
 5. **Training and Prediction:** Train the custom Decision Tree Classifier and make predictions.
-6. **Evaluation:** Evaluate the model's performance on training data.
+6. **Evaluation:** Evaluate the model's performance.
 
 
